@@ -1,0 +1,139 @@
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\STUDENT2\Desktop\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\hvdem\Downloads\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\11.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\STUDENT2\Desktop\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Raporlar.resources
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\hvdem\Downloads\14.04.2022\14.04.2022\Mehtap\Mehtap\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Raporlar.resources
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\hvdem\Desktop\16.04.2022\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\hvdem\Desktop\Projeler\1HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorlar.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastalar.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Kayit.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Poliklinik.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\hvdem\Desktop\Projeler\1 HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
